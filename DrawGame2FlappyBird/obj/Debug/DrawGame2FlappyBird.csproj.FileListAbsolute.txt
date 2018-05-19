@@ -1,0 +1,9 @@
+C:\Users\AMinkin\Documents\Visual Studio 2015\Projects\DrawGame2FlappyBird\DrawGame2FlappyBird\bin\Debug\DrawGame2FlappyBird.exe.config
+C:\Users\AMinkin\Documents\Visual Studio 2015\Projects\DrawGame2FlappyBird\DrawGame2FlappyBird\bin\Debug\DrawGame2FlappyBird.exe
+C:\Users\AMinkin\Documents\Visual Studio 2015\Projects\DrawGame2FlappyBird\DrawGame2FlappyBird\bin\Debug\DrawGame2FlappyBird.pdb
+C:\Users\AMinkin\Documents\Visual Studio 2015\Projects\DrawGame2FlappyBird\DrawGame2FlappyBird\obj\Debug\DrawGame2FlappyBird.Form1.resources
+C:\Users\AMinkin\Documents\Visual Studio 2015\Projects\DrawGame2FlappyBird\DrawGame2FlappyBird\obj\Debug\DrawGame2FlappyBird.Properties.Resources.resources
+C:\Users\AMinkin\Documents\Visual Studio 2015\Projects\DrawGame2FlappyBird\DrawGame2FlappyBird\obj\Debug\DrawGame2FlappyBird.csproj.GenerateResource.Cache
+C:\Users\AMinkin\Documents\Visual Studio 2015\Projects\DrawGame2FlappyBird\DrawGame2FlappyBird\obj\Debug\DrawGame2FlappyBird.exe
+C:\Users\AMinkin\Documents\Visual Studio 2015\Projects\DrawGame2FlappyBird\DrawGame2FlappyBird\obj\Debug\DrawGame2FlappyBird.pdb
+C:\Users\AMinkin\Documents\Visual Studio 2015\Projects\DrawGame2FlappyBird\DrawGame2FlappyBird\obj\Debug\DrawGame2FlappyBird.csprojResolveAssemblyReference.cache
